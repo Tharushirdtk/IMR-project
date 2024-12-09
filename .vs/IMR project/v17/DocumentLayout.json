@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\IMR project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|c:\\users\\user\\source\\repos\\imr project\\imr project\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|solutionrelative:imr project\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|c:\\users\\user\\source\\repos\\imr project\\imr project\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|solutionrelative:imr project\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|c:\\users\\user\\source\\repos\\imr project\\imr project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|solutionrelative:imr project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|c:\\users\\user\\source\\repos\\imr project\\imr project\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|solutionrelative:imr project\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|c:\\users\\user\\source\\repos\\imr project\\imr project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|solutionrelative:imr project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|C:\\Users\\USER\\source\\repos\\IMR project\\imr project\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|solutionrelative:imr project\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|c:\\users\\user\\source\\repos\\imr project\\imr project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5DBFD65-1C0A-4583-B2BE-B3BE1971BAC8}|IMR project\\IMR project.csproj|solutionrelative:imr project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\reports.cs",
+              "RelativeDocumentMoniker": "IMR project\\reports.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\reports.cs [Design]",
+              "RelativeToolTip": "IMR project\\reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:47:17.792Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\settings.cs",
+              "RelativeDocumentMoniker": "IMR project\\settings.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\settings.cs [Design]",
+              "RelativeToolTip": "IMR project\\settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:47:15.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LOGIN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\LOGIN.cs",
+              "RelativeDocumentMoniker": "IMR project\\LOGIN.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\LOGIN.cs [Design]",
+              "RelativeToolTip": "IMR project\\LOGIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:47:14.321Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "payments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\payments.cs",
+              "RelativeDocumentMoniker": "IMR project\\payments.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\payments.cs [Design]",
+              "RelativeToolTip": "IMR project\\payments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:47:12.654Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\Product.cs",
+              "RelativeDocumentMoniker": "IMR project\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\Product.cs [Design]",
+              "RelativeToolTip": "IMR project\\Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:47:10.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\Dashboard.cs",
+              "RelativeDocumentMoniker": "IMR project\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\Dashboard.cs [Design]",
+              "RelativeToolTip": "IMR project\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:41:46.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "customers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\customers.cs",
+              "RelativeDocumentMoniker": "IMR project\\customers.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IMR project\\IMR project\\customers.cs [Design]",
+              "RelativeToolTip": "IMR project\\customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:50:22.341Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
